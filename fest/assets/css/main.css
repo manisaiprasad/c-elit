@@ -2045,7 +2045,7 @@ Cover
   font-size: 18px;
   color: #ffffff;
   margin-bottom: 25px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   opacity: 0;
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
@@ -2114,7 +2114,7 @@ Cover
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
-
+/* 
 .cover_nav {
   position: relative;
   bottom: 0;
@@ -2181,7 +2181,7 @@ Cover
   height: 0;
   border-bottom: 40px solid #ffffff;
   border-right: 40px solid transparent;
-}
+} */
 
 .inner_cover {
   min-height: 400px;
